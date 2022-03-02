@@ -1,2 +1,2 @@
 # Tarjetas
-práctica de Boostrap
+práctica de Bootstrap
